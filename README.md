@@ -30,6 +30,3 @@ Applied ML • NLP • Graph ML • Retrieval & grounded generation • Robustne
 
 ### Let’s connect
 If you’re building research-heavy systems or shipping ML that survives the real world, I’d love to chat.
-
-📫 **LinkedIn:** https://www.linkedin.com/in/hardiksrivastava/  
-🌐 **Portfolio:** https://thisishardik.github.io/
